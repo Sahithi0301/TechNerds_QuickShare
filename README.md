@@ -1,1 +1,1 @@
-# TechNerds_QuickShare
+# QuickShare
